@@ -9,6 +9,10 @@ A curated list of awesome tools for soil physics analysis (software, scripts, pa
 
 - [unsatfit](https://sekika.github.io/unsatfit/). unsatfit is a Python library for optimizing parameters of functions of soil hydraulic properties (water retention function and hydraulic conductivity function). 
 
+- [discfit](https://pypi.org/project/discfit/). Discfit reads disc permeameter data in the field and calculates hydraulic parameters of the soil; saturated hydraulic conductivity and Gardner’s alpha constant.
+
+- [periodicgw](https://pypi.org/project/periodicgw/). Python package for generating periodic hydraulic conductivity fields and groundwater flow fields
+
 ### R 
 
 - [SoilHyP: Soil Hydraulic Properties](https://www.rdocumentation.org/packages/SoilHyP/versions/0.1.6). Provides functions for soil water retention (SWC) and unsaturated hydraulic conductivity (Ku).
@@ -18,6 +22,8 @@ A curated list of awesome tools for soil physics analysis (software, scripts, pa
 - [soiltexture](https://cran.r-project.org/web/packages/soiltexture/soiltexture.pdf). The Soil Texture Wizard is a set of R functions designed to produce texture triangles (also called texture plots, texture diagrams, texture ternary plots), classify and transform soil textures data.
 
 - [ggtern](http://www.ggtern.com/). ggtern is a software package for the statistical computing language R. It is an extension to ggplot2 specifically for the plotting of ternary diagrams. Useful for soil textural plots.
+
+- [Rdvark](https://github.com/jknappe/Rdvark). R script to compute saturated hydraulic conductivity (Ksat) values from Aardvark permeameter data.
 
 ### Software
 
