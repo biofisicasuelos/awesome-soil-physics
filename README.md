@@ -15,3 +15,5 @@ A curated list of awesome tools for soil physics analysis (software, scripts, pa
 ## Databases y datasets
 
 - [Global maps of potential and climatic plant-available soil water](https://zenodo.org/record/7600632#.ZB3dV-yZOdY). Authors:  Gupta, Surya;  Lehmann, Peter;  Bickel, Samuel;  Bonetti, Sara;  Or, Dani. This repository contains four global maps at 1km resolution per 1m soil depth: matric potential at FC [m], water content at FC [m3/m3], potential plant-available soil water [mm], climatic plant-available soil water [mm]. 
+
+- [GSHP: Global database of soil hydraulic properties](https://zenodo.org/record/6640246#.ZB3eSOyZOdY). A total of 15,259 SWCCs from 2,702 sites are reported. In addition to SWCCs, other soil variables such as soil texture (12,233 measurements), bulk density (15,125 measurements), and soil organic carbon (2,255 measurements) are also listed in the database.
