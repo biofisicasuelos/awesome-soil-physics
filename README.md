@@ -1,6 +1,10 @@
 
 A curated list of awesome tools for soil physics analysis (software, scripts, packages, databases, etc)
 
+### Python codes
+
+- [Phydrus](https://phydrus.readthedocs.io/en/latest/). Python implementation of the HYDRUS-1D unsaturated zone model. With Phydrus, a HYDRUS-1D model can be created, calibrated and visualized through Python scripts, making it easy to adjust the model and providing a 100% reproducible workflow of your modeling process.
+
 ### R packages
 
 - [SoilHyP: Soil Hydraulic Properties](https://www.rdocumentation.org/packages/SoilHyP/versions/0.1.6). Provides functions for soil water retention (SWC) and unsaturated hydraulic conductivity (Ku).
