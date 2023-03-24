@@ -1,6 +1,10 @@
 
-A curated list of awesome of tools for soil physics analysis (software, scripts, packages, databases, etc)
+A curated list of awesome tools for soil physics analysis (software, scripts, packages, databases, etc)
 
 ### R packages
 
+- [SoilHyP: Soil Hydraulic Properties](https://www.rdocumentation.org/packages/SoilHyP/versions/0.1.6). Provides functions for soil water retention (SWC) and unsaturated hydraulic conductivity 
+
 ### Software
+
+- [HYDRUS](https://www.pc-progress.com/en/Default.aspx?hydrus). Windows application for simulating water, heat, and solute movement in one-, two- and three-dimensional variably saturated media.
