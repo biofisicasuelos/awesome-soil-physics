@@ -7,9 +7,7 @@ A curated list of awesome tools for soil physics analysis (software, scripts, pa
 
 - [AquaCrop-OSPy](https://pypi.org/project/aquacrop/). Soil-Crop-Water model based on AquaCrop-OS. AquaCrop-OSPy is a python implementation of the popular crop-water model AquaCrop, built from the AquaCrop-OS source code.
 
-- [unsatfit](https://sekika.github.io/unsatfit/). unsatfit is a Python library for optimizing parameters of functions of soil hydraulic properties (water retention function and hydraulic conductivity function) where equations are explained in the following paper.
-
-
+- [unsatfit](https://sekika.github.io/unsatfit/). unsatfit is a Python library for optimizing parameters of functions of soil hydraulic properties (water retention function and hydraulic conductivity function). 
 
 ### R 
 
@@ -17,14 +15,22 @@ A curated list of awesome tools for soil physics analysis (software, scripts, pa
 
 - [soilphysics](https://github.com/arsilva87/soilphysics). In this package you will find a series of functions for soil physics data analysis.
 
+- [soiltexture](https://cran.r-project.org/web/packages/soiltexture/soiltexture.pdf). The Soil Texture Wizard is a set of R functions designed to produce texture triangles (also called texture plots, texture diagrams, texture ternary plots), classify and transform soil textures data.
+
+- [ggtern](http://www.ggtern.com/). ggtern is a software package for the statistical computing language R. It is an extension to ggplot2 specifically for the plotting of ternary diagrams. Useful for soil textural plots.
+
 ### Software
 
 - [HYDRUS](https://www.pc-progress.com/en/Default.aspx?hydrus). Windows application for simulating water, heat, and solute movement in one-, two- and three-dimensional variably saturated media.
 
 - [WEPP](https://www.fs.usda.gov/ccrc/tool/watershed-erosion-prediction-project-wepp). The Water Erosion Prediction Project (WEPP), is a physically-based soil erosion prediction technology.
 
+- [AQUACROP](https://www.fao.org/aquacrop/en). AquaCrop is a crop growth model developed by FAO’s Land and Water Division to address food security and assess the effect of the environment and management on crop production. 
+
 ### Databases y datasets
 
 - [Global maps of potential and climatic plant-available soil water](https://zenodo.org/record/7600632#.ZB3dV-yZOdY). Authors:  Gupta, Surya;  Lehmann, Peter;  Bickel, Samuel;  Bonetti, Sara;  Or, Dani. This repository contains four global maps at 1km resolution per 1m soil depth: matric potential at FC [m], water content at FC [m3/m3], potential plant-available soil water [mm], climatic plant-available soil water [mm]. 
 
 - [GSHP: Global database of soil hydraulic properties](https://zenodo.org/record/6640246#.ZB3eSOyZOdY). Authors:  Gupta, Surya;  Papritz, Andreas;  Lehmann, Peter;  Hengl, Tomislav;  Bonetti, Sara;  Or, Dani. A total of 15,259 SWCCs from 2,702 sites are reported. In addition to SWCCs, other soil variables such as soil texture (12,233 measurements), bulk density (15,125 measurements), and soil organic carbon (2,255 measurements) are also listed in the database.
+
+- [Global long term daily 1 km surface soil moisture dataset with physics informed machine learning](https://www.nature.com/articles/s41597-023-02011-7). Authors: Qianqian Han, Yijian Zeng, Lijie Zhang, Chao Wang, Egor Prikaziuk, Zhenguo Niu & Bob Su. Global Surface Soil Moisture (GSSM1 km) provides surface soil moisture (0–5 cm) at 1 km spatial and daily temporal resolution over the period 2000–2020. 
