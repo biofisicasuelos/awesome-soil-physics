@@ -7,6 +7,10 @@ A curated list of awesome tools for soil physics analysis (software, scripts, pa
 
 - [AquaCrop-OSPy](https://pypi.org/project/aquacrop/). Soil-Crop-Water model based on AquaCrop-OS. AquaCrop-OSPy is a python implementation of the popular crop-water model AquaCrop, built from the AquaCrop-OS source code.
 
+- [unsatfit](https://sekika.github.io/unsatfit/). unsatfit is a Python library for optimizing parameters of functions of soil hydraulic properties (water retention function and hydraulic conductivity function) where equations are explained in the following paper.
+
+
+
 ### R 
 
 - [SoilHyP: Soil Hydraulic Properties](https://www.rdocumentation.org/packages/SoilHyP/versions/0.1.6). Provides functions for soil water retention (SWC) and unsaturated hydraulic conductivity (Ku).
