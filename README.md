@@ -8,3 +8,5 @@ A curated list of awesome tools for soil physics analysis (software, scripts, pa
 ### Software
 
 - [HYDRUS](https://www.pc-progress.com/en/Default.aspx?hydrus). Windows application for simulating water, heat, and solute movement in one-, two- and three-dimensional variably saturated media.
+
+-[WEPP](https://www.fs.usda.gov/ccrc/tool/watershed-erosion-prediction-project-wepp). The Water Erosion Prediction Project (WEPP), is a physically-based soil erosion prediction technology
