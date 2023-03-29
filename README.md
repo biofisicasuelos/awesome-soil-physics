@@ -25,6 +25,8 @@ A curated list of awesome tools for soil physics analysis (software, scripts, pa
 
 - [Rdvark](https://github.com/jknappe/Rdvark). R script to compute saturated hydraulic conductivity (Ksat) values from Aardvark permeameter data.
 
+- [Ternary](https://ms609.github.io/Ternary/index.html). ‘Ternary’ is an R package that allows the creation of ternary plots (a.k.a. ternary graphs / simplex plots / Gibbs triangles / de Finetti diagrams) and Holdridge life zone diagrams using the familiar functions of the default ‘graphics’ package.
+
 ### Software
 
 - [HYDRUS](https://www.pc-progress.com/en/Default.aspx?hydrus). Windows application for simulating water, heat, and solute movement in one-, two- and three-dimensional variably saturated media.
