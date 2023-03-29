@@ -13,6 +13,10 @@ A curated list of awesome tools for soil physics analysis (software, scripts, pa
 
 - [periodicgw](https://pypi.org/project/periodicgw/). Python package for generating periodic hydraulic conductivity fields and groundwater flow fields
 
+- [ETo](https://github.com/Evapotranspiration/ETo). The ETo package contains a class and associated functions to calculate reference evapotranspiration (ETo) using the UN-FAO 56 paper. Additional functions have been added to calculate historic ETo or potential evapotranspiration (PET) for comparison purposes.
+
+- [pyfao56](https://github.com/ElsevierSoftwareX/SOFTX-D-23-00060). A Python implementation of the FAO-56 dual crop coefficient approach for crop water use estimation and irrigation scheduling. The pyfao56 Python package facilitates FAO-56 computations of daily soil water balance using the dual crop coefficient method to estimate crop evapotranspiration (ET).
+
 ### R 
 
 - [SoilHyP: Soil Hydraulic Properties](https://www.rdocumentation.org/packages/SoilHyP/versions/0.1.6). Provides functions for soil water retention (SWC) and unsaturated hydraulic conductivity (Ku).
@@ -26,6 +30,10 @@ A curated list of awesome tools for soil physics analysis (software, scripts, pa
 - [Rdvark](https://github.com/jknappe/Rdvark). R script to compute saturated hydraulic conductivity (Ksat) values from Aardvark permeameter data.
 
 - [Ternary](https://ms609.github.io/Ternary/index.html). ‘Ternary’ is an R package that allows the creation of ternary plots (a.k.a. ternary graphs / simplex plots / Gibbs triangles / de Finetti diagrams) and Holdridge life zone diagrams using the familiar functions of the default ‘graphics’ package.
+
+- [hydroGOF](https://github.com/hzambran/hydroGOF). hydroGOF is an R package that provides S3 functions implementing both statistical and graphical goodness-of-fit measures between observed and simulated values, mainly oriented to be used during the calibration, validation, and application of hydrological models. 
+
+- [https://github.com/hzambran/hydroTSM](hydroTSM). hydroTSM provides S3 functions for management, analysis, interpolation and plotting of time series used in hydrology and related environmental sciences. In particular, this package is highly oriented to hydrological modelling tasks.
 
 ### Software
 
