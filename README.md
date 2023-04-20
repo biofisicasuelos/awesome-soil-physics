@@ -27,6 +27,8 @@ A curated list of awesome tools for soil physics analysis (software, scripts, pa
 
 - [ggtern](http://www.ggtern.com/). ggtern is a software package for the statistical computing language R. It is an extension to ggplot2 specifically for the plotting of ternary diagrams. Useful for soil textural plots.
 
+- [Evapotranspiration](https://cran.r-project.org/web/packages/Evapotranspiration/index.html). Uses data and constants to calculate potential evapotranspiration (PET) and actual evapotranspiration (AET) from 21 different formulations including Penman, Penman-Monteith FAO 56, Priestley-Taylor and Morton formulations.
+
 - [Rdvark](https://github.com/jknappe/Rdvark). R script to compute saturated hydraulic conductivity (Ksat) values from Aardvark permeameter data.
 
 - [Ternary](https://ms609.github.io/Ternary/index.html). ‘Ternary’ is an R package that allows the creation of ternary plots (a.k.a. ternary graphs / simplex plots / Gibbs triangles / de Finetti diagrams) and Holdridge life zone diagrams using the familiar functions of the default ‘graphics’ package.
