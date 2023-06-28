@@ -19,6 +19,8 @@ A curated list of awesome tools for soil physics analysis (software, scripts, pa
 
 ### R 
 
+- [infiltrodiscR](https://github.com/biofisicasuelos/infiltrodiscR).  Provides functions for the modeling of data derived from the Minidisk Infiltrometer device. 
+
 - [SoilHyP: Soil Hydraulic Properties](https://www.rdocumentation.org/packages/SoilHyP/versions/0.1.6). Provides functions for soil water retention (SWC) and unsaturated hydraulic conductivity (Ku).
 
 - [soilphysics](https://github.com/arsilva87/soilphysics). In this package you will find a series of functions for soil physics data analysis.
